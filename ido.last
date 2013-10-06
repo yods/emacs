@@ -1,0 +1,153 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/ssh:yods:/home/ubuntu/opensensors-service/src/" . "opensensors_service/")
+ ("/ssh:yods:/home/ubuntu/" . "opensensors-service/")
+ ("/ssh:yods:/home/" . "ubuntu/")
+ ("/ssh:yods:/" . "home/")
+ ("/home/yods/work-projects/dsl-hackathon/datastuff/src/" . "datastuff/")
+ ("/home/yods/work-projects/dsl-hackathon/datastuff/" . "src/")
+ ("/home/yods/work-projects/dsl-hackathon/" . "datastuff/")
+ ("/" . "home/")
+ ("/ssh:yods:/home/ubuntu/opensensors-service/" . "src/")
+ ("/home/" . "yods/")
+ ("/home/yods/work-projects/opensensors/mqtt-bridge/src/" . "mqtt_bridge/")
+ ("/home/yods/work-projects/opensensors/mqtt-bridge/" . "src/")
+ ("/home/yods/personal-projects/machine_head/test/clojurewerkz/" . "machine_head/")
+ ("/home/yods/personal-projects/machine_head/test/" . "clojurewerkz/")
+ ("/home/yods/personal-projects/machine_head/" . "test/")
+ ("/home/yods/work-projects/" . "wikisensing/")
+ ("/home/yods/work-projects/wikisensing/src/" . "wikisensing/")
+ ("/home/yods/work-projects/wikisensing/" . "src/")
+ ("/home/yods/work-projects/opensensors/opensensors-service/src/" . "opensensors_service/")
+ ("/home/yods/work-projects/opensensors/opensensors-service/" . "src/")
+ ("/home/yods/work-projects/opensensors/opensensors-webapp/src/opensensors/" . "models/")
+ ("/home/yods/work-projects/opensensors/opensensors-webapp/src/" . "opensensors/")
+ ("/home/yods/work-projects/opensensors/opensensors-webapp/" . "src/")
+ ("/home/yods/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/ssh:yods:/home/ubuntu/opensensors-service/src/opensensors_service/"
+ "/ssh:yods:~/opensensors-service/src/opensensors_service/"
+ "/home/yods/work-projects/opensensors/opensensors-service/src/opensensors_service/"
+ "/home/yods/work-projects/dsl-hackathon/datastuff/src/datastuff/"
+ "/home/yods/work-projects/dsl-hackathon/datastuff/"
+ "/home/yods/.emacs.d/"
+ "/ssh:yods:/home/ubuntu/opensensors-service/dev/"
+ "/home/yods/.ssh/"
+ "/home/yods/adl/"
+ "/home/yods/work-projects/opensensors/opensensors-service/"
+ "/home/yods/work-projects/opensensors/mqtt-bridge/src/mqtt_bridge/"
+ "/home/yods/personal-projects/machine_head/test/clojurewerkz/machine_head/"
+ "/home/yods/work-projects/docker/"
+ "/home/yods/work-projects/vagrant-cassandra/"
+ "/home/yods/work-projects/wikisensing/src/wikisensing/"
+ "/home/yods/work-projects/wikisensing/"
+ "/home/yods/work-projects/opensensors/opensensors-webapp/src/opensensors/"
+ "/home/yods/work-projects/opensensors/opensensors-webapp/src/opensensors/routes/"
+ "/home/yods/work-projects/opensensors/opensensors-webapp/src/opensensors/models/"
+ "/home/yods/work-projects/opensensors/opensensors-webapp/"
+ "/home/yods/work-projects/opensensors/opensensors-static/"
+ "/home/yods/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "database.clj"
+ "core.clj"
+ "schemas.clj"
+ "LICENSE"
+ "project.clj"
+ "system.clj"
+ "init.el"
+ "user.clj"
+ "config"
+ "known_hosts"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/ssh:yods:/home/ubuntu/opensensors-service/src/" (ftp . 383605.6119444444) "../" "./" "opensensors_service/")
+
+ ("/ssh:yods:/home/ubuntu/opensensors-service/" (ftp . 383605.6113888889) "../" "project.clj" "LICENSE" "./" "test/" "README.md" "target/" ".git/" "src/" "dev/" ".lein-repl-history" "doc/" ".nrepl-port" ".bashrc" ".gitignore")
+
+ ("/ssh:yods:/home/ubuntu/" (ftp . 383605.6097222222) "opensensors-static/" ".gitconfig" "../" ".viminfo" "./" ".cassandra/" ".m2/" ".lein/" ".gnupg/" ".bash_logout" "ami.log" ".cache/" ".profile" ".bash_history" "data/" ".sudo_as_admin_successful" ".gem/" "datastax_ami/" ".ssh/" "opensensors-service/" ".bashrc" ".s3cfg" "bin/")
+
+ ("/ssh:yods:/home/" (ftp . 383605.6094444444) "../" "./" "ubuntu/")
+
+ ("/ssh:yods:/" (ftp . 383605.60444444447) "vmlinuz" "usr/" "sbin/" "../" "home/" "lib/" "./" "mnt/" "boot/" "raid0/" "proc/" "var/" "selinux/" "ami.log" "etc/" "lib64/" "lost+found/" "dev/" "root/" "tmp/" "opt/" "srv/" "sys/" "initrd.img" "run/" "bin/")
+
+ ("/ssh:yods:/home/ubuntu/opensensors-service/src/opensensors_service/" (ftp . 383605.6013888889) "../" "./" "core.clj" "system.clj" "schemas.clj" "notes.org" "database.clj")
+
+ ("/ssh:yods:~/opensensors-service/src/opensensors_service/" (ftp . 383605.5752777778) "../" "./" "core.clj" "system.clj" "schemas.clj" "notes.org" "database.clj")
+
+ ("/home/yods/" (21072 3449 763537 439000) ".heroku/" ".config/" ".pulse-cookie" ".local/" ".emacs-live.el" ".gvfs/" "presentations/" "javadoc/" ".gconf/" "Desktop/" ".adobe/" ".smex-items" ".fontconfig/" ".lein/" ".erlang.cookie" "Videos/" "jre-7u40-linux-x64.tar.gz" "adl/" ".gegl-0.0/" ".xsession-errors.old" "personal-projects/" "bin/" ".ssh/" "rabbitmq-signing-key-public.asc" "Pictures/" "../" "Music/" ".live-packs/" "ipython notebooks/" ".mozilla/" ".dmrc" "Templates/" "work-projects/" "city/" ".vagrant.d/" "Dropbox/" ".xsession-errors" ".gitconfig" ".gnome2/" ".bash_history" ".mission-control/" ".goutputstream-73BS3W" "Presentations/" ".pki/" ".bash_logout" ".bashrc" "Public/" ".VirtualBox/" ".gem/" "coursera/" "README" ".m2/" "emacs-live-old-config/" ".ICEauthority" ".Xauthority" "README.txt" ".bundler/" ".saves/" ".dropbox-dist/" ".profile" ".gtk-bookmarks" ".gimp-2.6/" ".dropbox/" ".emacs.d.backup/" ".thumbnails/" ".macromedia/" "examples.desktop" "VirtualBox VMs/" ".cache/" ".dbus/" ".netrc" "Documents/" "Downloads/" "org/" "./" ".emacs.d/" "bootstrap/" "#yodit.org#" "Ubuntu One/" ".pulse/" "dog.csv" ".icedtea/" ".compiz-1/")
+
+ ("/home/yods/work-projects/opensensors/opensensors-service/src/opensensors_service/" (21070 45388 877514 173000) "core.clj" "../" "schemas.clj" "system.clj" "database.clj" "notes.org" "./")
+
+ ("/home/yods/work-projects/opensensors/opensensors-service/" (21069 15660 937048 198000) "target/" "doc/" ".gitignore" "../" "README.md" ".bashrc" "src/" "resources/" "project.clj" ".git/" "LICENSE" "./" "dev/" "test/")
+
+ ("/home/yods/work-projects/dsl-hackathon/datastuff/src/datastuff/" (21069 34168 424159 912000) "core.clj" "../" "./" ".#core.clj")
+
+ ("/home/yods/work-projects/dsl-hackathon/datastuff/src/" (21069 29799 644369 596000) "../" "./" "datastuff/")
+
+ ("/home/yods/work-projects/dsl-hackathon/datastuff/" (21069 29958 796361 957000) ".nrepl-port" "target/" "doc/" ".gitignore" "../" ".lein-repl-history" "README.md" "src/" "resources/" "project.clj" "LICENSE" "./" "test/")
+
+ ("/home/yods/work-projects/dsl-hackathon/" (21069 29799 624369 597000) "ParkingCashlessTransactionsDeNormalised2013.csv" "sample.csv" "../" "denormSample.csv" "sample_2.csv" "ParkingCashlessTransactionsDeNormalised2013.zipx" "ParkingCashlessTransactions2013_2.csv" "ParkingCashlessTransactions2013.csv" "ParkingCashlessTransactions2013.zipx" ".~lock.sample.csv#" ".~lock.denormSample.csv#" "Graffiti Flyposting And Sticker.csv" "./" "datastuff/" ".~lock.Graffiti Flyposting And Sticker.csv#")
+
+ ("/home/yods/.emacs.d/" (21068 31439 723436 347000) "ido.last" "tmp/" "init.el" "tramp" "session.106abcb2ff9bed9ad3138022823824439400000111230054" "CHANGELOG.md" ".smex-items" ".gitignore" "places" "session.106abcb2ff9bed9ad3138022881446268800000111230056" "etc/" ".gitmodules" "../" "packs/" "installer/" "ac-comphist.dat" "manifest.el" "url/" "README.md" "lib/" "nrepl-history" "session.10f1b0bae147bb5afc138006403155244800000021350071" "elpa/" "session.101eb6c78e95f13d55138027472122461300000024360043" ".git/" "./" ".graphene-geometry" "LICENSE.txt")
+
+ ("/home/yods/.ssh/" (21068 19069 220030 83000) "../" "known_hosts" "id_rsa.pub" "id_rsa.backup" "known_hosts.old" "id_rsa" "config" "./")
+
+ ("/home/yods/adl/" (21058 59879 215190 194000) "../" "info hsbc" "adlAmazon.pem" "credentials-1.csv" "ADLbus_front.jpg" "adl2.pem" "./" "InvoiceADL061.docx" "secret" "amazonOregon.pem")
+
+ ("/home/yods/work-projects/" (21064 37275 129574 90000) "cdec.openhealthdata/" "InstinetWeb/" "instinet-trade-recs/" "DementiaMap/" "../" "odiAbstract.odt" "adltest.com/" "opensensors/" "atomicdatalabs.com/" "vagrant-cassandra/" "docker/" "mqtt-documentation/" "mqtt.org" "wikisensing/" "dsl-hackathon/" "./")
+
+ ("/home/yods/work-projects/opensensors/" (21060 25019 218347 758000) "../" "opensensors-webapp/" "Untitled Document" "opensensors-service/" "cassandrainstrctions" "mqtt-cassandra/" "opensensors.io/" "mqtt-bridge/" "./" "opensensors-static/" "cassandrainstrctions.md")
+
+ ("/home/yods/work-projects/opensensors/opensensors-static/" (21068 14073 924269 837000) "_layouts/" ".gitignore" "Procfile" "../" "_config.yml" "Gemfile" "config.ru" "_site/" "CNAME" "Gemfile.lock" ".git/" "index.html" "futurecities.html" "_posts/" "./" "assets/")
+
+ ("/home/yods/work-projects/opensensors/opensensors-webapp/src/opensensors/models/" (21060 29364 241269 241000) "db.clj" "../" "schema.clj" "./")
+
+ ("/home/yods/work-projects/wikisensing/" (21057 59636 369943 768000) "met" "target/" "doc/" ".gitignore" "electsensor" "../" "get_wiki.pyc" "README.md" "src/" "resources/" "electric" "project.clj" "met2.json" "LICENSE" "./" "get_wiki.py" "test/")
+
+ ("/home/yods/work-projects/vagrant-cassandra/" (21058 47588 233139 233000) "../" "README.md" "Vagrantfile" ".git/" "vagrant/" "./" ".vagrant")
+
+ ("/home/yods/work-projects/docker/" (21060 4268 213418 818000) "auth/" "graph_test.go" "CHANGELOG.md" "sysinit.go" "NOTICE" ".gitignore" "MAINTAINERS" "network_proxy_test.go" "CONTRIBUTING.md" "packaging/" "VERSION" "network_proxy.go" "docs/" "network.go" "server_test.go" "tags_test.go" "../" "library/" "utils.go" "runtime.go" "api_test.go" "api.go" "changes.go" "runtime_test.go" "graph.go" "utils_test.go" "buildfile.go" "sorter.go" "server.go" "container_test.go" "README.md" "mount_darwin.go" "Vagrantfile" "AUTHORS" "registry/" "docker/" "tags.go" "mount.go" "archive_test.go" "utils/" "commands_test.go" "api_params.go" "network_test.go" "Dockerfile" "contrib/" "lxc_template.go" ".git/" "LICENSE" "vendor/" "hack/" "container.go" "mount_linux.go" "z_final_test.go" "./" ".vagrant" "testing/" ".mailmap" "FIXME" "term/" "sorter_test.go" "image.go" "buildfile_test.go" "commands.go" "archive.go" "state.go")
+
+ ("/home/yods/personal-projects/machine_head/test/clojurewerkz/machine_head/" (21062 45246 452797 691000) "../" "client_test.clj" "./")
+
+ ("/home/yods/work-projects/opensensors/mqtt-bridge/src/mqtt_bridge/" (21052 45288 77755 768000) "subscriber.clj" "core.clj" "../" "./")
+
+ ("/home/yods/work-projects/opensensors/mqtt-bridge/src/" (21051 32365 943442 282000) "../" "mqtt_bridge/" "./")
+
+ ("/home/yods/work-projects/opensensors/mqtt-bridge/" (21052 29349 9479 377000) "target/" "doc/" ".gitignore" "../" "README.md" "src/" "project.clj" ".git/" "./" "test/")
+
+ ("/home/yods/personal-projects/machine_head/" (21058 41819 49087 77000) "target/" ".gitignore" "bin/" "../" ".lein-repl-history" "README.md" "src/" "project.clj" "yods1380065749629-tcp1270011883/" ".git/" ".travis.yml" "./" "ChangeLog.md" "test/")
+
+ ("/home/yods/personal-projects/machine_head/test/clojurewerkz/" (21051 32061 231456 907000) "../" "machine_head/" "./")
+
+ ("/home/yods/personal-projects/machine_head/test/" (21051 32061 227456 906000) "../" "clojurewerkz/" "./")
+
+ ("/home/yods/work-projects/wikisensing/src/wikisensing/" (21057 59454 885952 479000) "core.clj" "../" "./")
+
+ ("/home/yods/work-projects/opensensors/opensensors-webapp/" (21057 38384 706706 332000) "target/" "build.properties" ".gitignore" "Procfile" "bin/" "../" ".project" "index.html.1" "README.md" "src/" "resources/" "project.clj" ".git/" "opensensors.log" ".classpath" "index.html" ".settings/" "./" "META-INF/" "test/")
+
+ ("/home/yods/work-projects/opensensors/opensensors-webapp/src/opensensors/routes/" (21057 38382 846706 421000) "../" "home.clj" "users.clj" "./" "service.clj")
+
+ ("/home/yods/work-projects/wikisensing/src/" (21057 55310 154151 409000) "../" "wikisensing/" "./")
+
+ ("/home/yods/work-projects/opensensors/opensensors-service/src/" (21057 38369 442707 64000) "opensensors_service/" "../" "./")
+
+ ("/home/yods/work-projects/opensensors/opensensors-webapp/src/opensensors/" (21057 22067 341796 223000) "util.clj" "../" "routes/" "handler.clj" "repl.clj" "./" "views/" "models/")
+
+ ("/home/yods/work-projects/opensensors/opensensors-webapp/src/" (21052 30768 0 0) "../" "opensensors/" "./")
+
+ ("/home/" (21050 57008 287988 630000) "../" "yods/" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
